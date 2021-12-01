@@ -7,5 +7,8 @@
   "license": "MIT",
   "devDependencies": {
     "prettier": "^2.5.0"
+  },
+  "dependencies": {
+    "lodash.chunk": "^4.2.0"
   }
 }
